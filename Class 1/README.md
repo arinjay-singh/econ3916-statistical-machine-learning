@@ -31,7 +31,3 @@ The analysis reveals significant deviations from purchasing power parity across 
 ## Economic Interpretation
 
 The persistent undervaluation of emerging market currencies suggests structural barriers to arbitrage—including trade costs, non-tradable inputs (labor, rent), and capital controls—that prevent the Law of One Price from holding in practice. Norway's overvaluation reflects its high-cost economy driven by oil wealth and elevated wages.
-
----
-
-Copy-paste ready. Let me know if you want any adjustments to tone or detail.
